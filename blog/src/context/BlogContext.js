@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-// import createDataContext from './createDataContext';
 
 const BlogContext = React.createContext();
 
